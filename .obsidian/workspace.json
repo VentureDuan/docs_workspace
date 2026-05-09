@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "2e2cd364b75c57d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "502cd4f191555ce9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7659835207da34b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Projects/FileDispatch 内容分发平台/项目概览.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "项目概览"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "400b6f46263932c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "59d334d688aa4870",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbd81f18bc331762",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9a3fc370a5a128a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "881676e6cb91a920",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "22586f8c91e1f5a4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6021b2a7f5eb41f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7d3672c48a1a9ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f1ff75736baa8e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "欢迎.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "欢迎 的反向链接列表"
+            }
+          },
+          {
+            "id": "55adf0b3122e2c34",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "657d7f82e8267f74",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "eb7a7b3bd3a3abd4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "bf7821f616c84fb9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": true,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": true,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "7659835207da34b4",
+  "lastOpenFiles": [
+    "00_Inbox/agent-drafts/云游戏 Trace.md",
+    "00_Inbox/agent-drafts/RBD 命令合集.md",
+    "01_Projects/云游戏CallTrace平台/技术方案-CloudGameTrace.md",
+    "01_Projects/云游戏CallTrace平台/项目概览.md",
+    "00_Inbox/agent-drafts/云游戏 Trace .md",
+    "00_Inbox/agent-drafts/段锦涛-Go开发工程师.md",
+    "00_Inbox/agent-drafts/002-Ceph游戏部署简化.md",
+    "03_Agent_Context/我的技术栈.md",
+    "01_Projects/CGInstance 实例任务批处理系统/项目概览.md",
+    "05_Learning/这个习惯改变了我的人生 - 笔记.md",
+    "01_Projects/云游戏CallTrace平台",
+    "01_Projects/CGVmAgent 实例Agent服务/项目概览.md",
+    "01_Projects/CGVmAgent 实例Agent服务",
+    "01_Projects/CGInstanceAgent 实例Agent服务/项目概览.md",
+    "01_Projects/CGInstanceAgent 实例Agent服务",
+    "01_Projects/CGInstance 实例任务批处理系统",
+    "01_Projects/FileDispatch 内容分发平台/项目概览.md",
+    "01_Projects/FileDispatch 内容分发平台",
+    "05_Learning/一个刚入职的程序员应该学会什么？.md",
+    "05_Learning/萌新程序员的第一年.md",
+    "05_Learning/健身认知.md",
+    "05_Learning/沟通技巧.md",
+    "05_Learning/编程能力提升.md",
+    "01_Projects/FileDispatch 内容分发平台.md",
+    "01_Projects/CGVmAgent 实例Agent服务.md",
+    "01_Projects/CGInstanceAgent 实例Agent服务.md",
+    "01_Projects/CGInstance 实例任务批处理系统.md",
+    "01_Projects/云游戏CallTrace平台.md",
+    "01_Projects/项目索引.md",
+    "03_Agent_Context/当前项目.md",
+    "AGENTS.md",
+    "99_Archive/日记/2026",
+    "99_Archive/日记/2025/redis/static/image-20240508094018027.png",
+    "99_Archive/日记/2025/redis/static/image-20240508093940548.png",
+    "99_Archive/日记/2025/redis/static/image-20240508093400160-1715132042276-1.png",
+    "99_Archive/日记/2025/redis/static/image-20240508092746218.png",
+    "99_Archive/日记/2025/redis/static/image-20240508092611690.png",
+    "99_Archive/日记/2025/redis/static/image-20240508091737915.png",
+    "99_Archive/日记/2025/redis/static/image-20240505220037792.png",
+    "99_Archive/日记/2025/redis/static/image-20240505213742910.png",
+    "99_Archive/日记/2025/redis/static/image-20240505213620887.png",
+    "99_Archive/日记/2025/redis/static/image-20240505213330199.png",
+    "99_Archive/日记/2025/redis/static",
+    "99_Archive/日记/2025/ratelimit/static",
+    "99_Archive/日记/2025/redis",
+    "99_Archive/日记/2025/ratelimit"
+  ]
+}

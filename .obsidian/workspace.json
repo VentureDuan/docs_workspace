@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Projects/FileDispatch 内容分发平台/项目概览.md",
+                "file": "01_Projects/CGInstance 实例任务批处理系统/项目概览.md",
                 "mode": "source",
                 "source": false
               },
@@ -80,15 +80,15 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 330.5
   },
   "right": {
     "id": "6021b2a7f5eb41f6",
@@ -196,15 +196,20 @@
   },
   "active": "7659835207da34b4",
   "lastOpenFiles": [
-    "00_Inbox/agent-drafts/云游戏 Trace.md",
+    "00_Inbox/agent-drafts/002-Ceph游戏部署简化.md",
+    "01_Projects/CGInstance 实例任务批处理系统/项目概览.md",
+    "03_Agent_Context/我的技术栈.md",
+    "03_Agent_Context/当前项目.md",
     "00_Inbox/agent-drafts/RBD 命令合集.md",
+    "00_Inbox/agent-drafts/云游戏 Trace.md",
+    "00_Inbox/agent-drafts/段锦涛-Go开发工程师.md",
+    "05_Learning/沟通技巧.md",
+    "05_Learning/编程能力提升.md",
+    "AGENTS.md",
+    "01_Projects/FileDispatch 内容分发平台/项目概览.md",
     "01_Projects/云游戏CallTrace平台/技术方案-CloudGameTrace.md",
     "01_Projects/云游戏CallTrace平台/项目概览.md",
     "00_Inbox/agent-drafts/云游戏 Trace .md",
-    "00_Inbox/agent-drafts/段锦涛-Go开发工程师.md",
-    "00_Inbox/agent-drafts/002-Ceph游戏部署简化.md",
-    "03_Agent_Context/我的技术栈.md",
-    "01_Projects/CGInstance 实例任务批处理系统/项目概览.md",
     "05_Learning/这个习惯改变了我的人生 - 笔记.md",
     "01_Projects/云游戏CallTrace平台",
     "01_Projects/CGVmAgent 实例Agent服务/项目概览.md",
@@ -212,21 +217,16 @@
     "01_Projects/CGInstanceAgent 实例Agent服务/项目概览.md",
     "01_Projects/CGInstanceAgent 实例Agent服务",
     "01_Projects/CGInstance 实例任务批处理系统",
-    "01_Projects/FileDispatch 内容分发平台/项目概览.md",
     "01_Projects/FileDispatch 内容分发平台",
     "05_Learning/一个刚入职的程序员应该学会什么？.md",
     "05_Learning/萌新程序员的第一年.md",
     "05_Learning/健身认知.md",
-    "05_Learning/沟通技巧.md",
-    "05_Learning/编程能力提升.md",
     "01_Projects/FileDispatch 内容分发平台.md",
     "01_Projects/CGVmAgent 实例Agent服务.md",
     "01_Projects/CGInstanceAgent 实例Agent服务.md",
     "01_Projects/CGInstance 实例任务批处理系统.md",
     "01_Projects/云游戏CallTrace平台.md",
     "01_Projects/项目索引.md",
-    "03_Agent_Context/当前项目.md",
-    "AGENTS.md",
     "99_Archive/日记/2026",
     "99_Archive/日记/2025/redis/static/image-20240508094018027.png",
     "99_Archive/日记/2025/redis/static/image-20240508093940548.png",

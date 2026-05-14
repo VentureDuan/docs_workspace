@@ -2,27 +2,7 @@
   "recentFiles": [
     {
       "basename": "项目概览",
-      "path": "01_Projects/FileDispatch 内容分发平台/项目概览.md"
-    },
-    {
-      "basename": "云游戏 Trace",
-      "path": "00_Inbox/agent-drafts/云游戏 Trace.md"
-    },
-    {
-      "basename": "RBD 命令合集",
-      "path": "00_Inbox/agent-drafts/RBD 命令合集.md"
-    },
-    {
-      "basename": "技术方案-CloudGameTrace",
-      "path": "01_Projects/云游戏CallTrace平台/技术方案-CloudGameTrace.md"
-    },
-    {
-      "basename": "项目概览",
-      "path": "01_Projects/云游戏CallTrace平台/项目概览.md"
-    },
-    {
-      "basename": "段锦涛-Go开发工程师",
-      "path": "00_Inbox/agent-drafts/段锦涛-Go开发工程师.md"
+      "path": "01_Projects/CGInstance 实例任务批处理系统/项目概览.md"
     },
     {
       "basename": "002-Ceph游戏部署简化",
@@ -33,8 +13,44 @@
       "path": "03_Agent_Context/我的技术栈.md"
     },
     {
+      "basename": "当前项目",
+      "path": "03_Agent_Context/当前项目.md"
+    },
+    {
+      "basename": "RBD 命令合集",
+      "path": "00_Inbox/agent-drafts/RBD 命令合集.md"
+    },
+    {
+      "basename": "云游戏 Trace",
+      "path": "00_Inbox/agent-drafts/云游戏 Trace.md"
+    },
+    {
+      "basename": "段锦涛-Go开发工程师",
+      "path": "00_Inbox/agent-drafts/段锦涛-Go开发工程师.md"
+    },
+    {
+      "basename": "沟通技巧",
+      "path": "05_Learning/沟通技巧.md"
+    },
+    {
+      "basename": "编程能力提升",
+      "path": "05_Learning/编程能力提升.md"
+    },
+    {
+      "basename": "AGENTS",
+      "path": "AGENTS.md"
+    },
+    {
       "basename": "项目概览",
-      "path": "01_Projects/CGInstance 实例任务批处理系统/项目概览.md"
+      "path": "01_Projects/FileDispatch 内容分发平台/项目概览.md"
+    },
+    {
+      "basename": "技术方案-CloudGameTrace",
+      "path": "01_Projects/云游戏CallTrace平台/技术方案-CloudGameTrace.md"
+    },
+    {
+      "basename": "项目概览",
+      "path": "01_Projects/云游戏CallTrace平台/项目概览.md"
     },
     {
       "basename": "这个习惯改变了我的人生 - 笔记",
@@ -53,24 +69,8 @@
       "path": "05_Learning/健身认知.md"
     },
     {
-      "basename": "沟通技巧",
-      "path": "05_Learning/沟通技巧.md"
-    },
-    {
-      "basename": "编程能力提升",
-      "path": "05_Learning/编程能力提升.md"
-    },
-    {
       "basename": "项目索引",
       "path": "01_Projects/项目索引.md"
-    },
-    {
-      "basename": "当前项目",
-      "path": "03_Agent_Context/当前项目.md"
-    },
-    {
-      "basename": "AGENTS",
-      "path": "AGENTS.md"
     }
   ],
   "omittedPaths": [],

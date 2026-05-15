@@ -1,20 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "CGInstance 实例任务批处理系统技术方案",
+      "path": "00_Inbox/agent-drafts/CGInstance 实例任务批处理系统技术方案.md"
+    },
+    {
+      "basename": "AGENTS",
+      "path": "AGENTS.md"
+    },
+    {
       "basename": "项目概览",
       "path": "01_Projects/CGInstance 实例任务批处理系统/项目概览.md"
-    },
-    {
-      "basename": "002-Ceph游戏部署简化",
-      "path": "00_Inbox/agent-drafts/002-Ceph游戏部署简化.md"
-    },
-    {
-      "basename": "我的技术栈",
-      "path": "03_Agent_Context/我的技术栈.md"
-    },
-    {
-      "basename": "当前项目",
-      "path": "03_Agent_Context/当前项目.md"
     },
     {
       "basename": "RBD 命令合集",
@@ -29,16 +25,24 @@
       "path": "00_Inbox/agent-drafts/段锦涛-Go开发工程师.md"
     },
     {
+      "basename": "002-Ceph游戏部署简化",
+      "path": "00_Inbox/agent-drafts/002-Ceph游戏部署简化.md"
+    },
+    {
+      "basename": "我的技术栈",
+      "path": "03_Agent_Context/我的技术栈.md"
+    },
+    {
+      "basename": "当前项目",
+      "path": "03_Agent_Context/当前项目.md"
+    },
+    {
       "basename": "沟通技巧",
       "path": "05_Learning/沟通技巧.md"
     },
     {
       "basename": "编程能力提升",
       "path": "05_Learning/编程能力提升.md"
-    },
-    {
-      "basename": "AGENTS",
-      "path": "AGENTS.md"
     },
     {
       "basename": "项目概览",

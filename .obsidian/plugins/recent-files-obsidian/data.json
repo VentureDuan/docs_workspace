@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "技术方案-CloudGameTrace",
+      "path": "01_Projects/云游戏CallTrace平台/技术方案-CloudGameTrace.md"
+    },
+    {
+      "basename": "项目概览",
+      "path": "01_Projects/K8s Pod 排障 MCP Skill/项目概览.md"
+    },
+    {
+      "basename": "故障调查报告",
+      "path": "00_Inbox/agent-drafts/故障调查报告.md"
+    },
+    {
+      "basename": "Shard Scheduler 设计与实例锁机制",
+      "path": "01_Projects/CGInstance 实例任务批处理系统/Shard Scheduler 设计与实例锁机制.md"
+    },
+    {
       "basename": "CGInstance 实例任务批处理系统技术方案",
       "path": "00_Inbox/agent-drafts/CGInstance 实例任务批处理系统技术方案.md"
     },
@@ -9,12 +25,12 @@
       "path": "AGENTS.md"
     },
     {
-      "basename": "项目概览",
-      "path": "01_Projects/CGInstance 实例任务批处理系统/项目概览.md"
-    },
-    {
       "basename": "RBD 命令合集",
       "path": "00_Inbox/agent-drafts/RBD 命令合集.md"
+    },
+    {
+      "basename": "项目概览",
+      "path": "01_Projects/CGInstance 实例任务批处理系统/项目概览.md"
     },
     {
       "basename": "云游戏 Trace",
@@ -47,10 +63,6 @@
     {
       "basename": "项目概览",
       "path": "01_Projects/FileDispatch 内容分发平台/项目概览.md"
-    },
-    {
-      "basename": "技术方案-CloudGameTrace",
-      "path": "01_Projects/云游戏CallTrace平台/技术方案-CloudGameTrace.md"
     },
     {
       "basename": "项目概览",

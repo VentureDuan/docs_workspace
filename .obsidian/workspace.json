@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Inbox/agent-drafts/CGInstance 实例任务批处理系统技术方案.md",
+                "file": "01_Projects/云游戏CallTrace平台/技术方案-CloudGameTrace.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CGInstance 实例任务批处理系统技术方案"
+              "title": "技术方案-CloudGameTrace"
             }
           }
         ]
@@ -80,15 +80,15 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "recent-files"
+              "icon": "clock",
+              "title": "Recent files"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 269.5
   },
   "right": {
     "id": "6021b2a7f5eb41f6",
@@ -191,15 +191,35 @@
       "templates:插入模板": true,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": true,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "diagram-zoom-drag:Picker mode": false
     }
   },
   "active": "7659835207da34b4",
   "lastOpenFiles": [
-    "AGENTS.md",
+    "01_Projects/K8s Pod 排障 MCP Skill/skill/k8s-pod-debug/references/readonly-rbac-requirements.md",
+    "01_Projects/K8s Pod 排障 MCP Skill/skill/k8s-pod-debug/references/environment-config.example.yaml",
+    "01_Projects/K8s Pod 排障 MCP Skill/skill/k8s-pod-debug/agents/openai.yaml",
+    "01_Projects/K8s Pod 排障 MCP Skill/skill/k8s-pod-debug/SKILL.md",
+    "01_Projects/K8s Pod 排障 MCP Skill/skill/k8s-pod-debug/references",
+    "01_Projects/K8s Pod 排障 MCP Skill/skill/k8s-pod-debug/agents",
+    "01_Projects/K8s Pod 排障 MCP Skill/skill/k8s-pod-debug",
+    "01_Projects/K8s Pod 排障 MCP Skill/skill",
+    "01_Projects/K8s Pod 排障 MCP Skill/k8s-pod-debug/references/readonly-rbac-requirements.md",
+    "01_Projects/K8s Pod 排障 MCP Skill/k8s-pod-debug/references/environment-config.example.yaml",
+    "01_Projects/K8s Pod 排障 MCP Skill/k8s-pod-debug/references",
+    "01_Projects/K8s Pod 排障 MCP Skill/k8s-pod-debug/agents/openai.yaml",
+    "01_Projects/K8s Pod 排障 MCP Skill/k8s-pod-debug/agents",
+    "01_Projects/K8s Pod 排障 MCP Skill/k8s-pod-debug/SKILL.md",
+    "01_Projects/K8s Pod 排障 MCP Skill/项目概览.md",
+    "01_Projects/K8s Pod 排障 MCP Skill/skill/k8s-pod-diagnoser/references/readonly-rbac-requirements.md",
+    "01_Projects/K8s Pod 排障 MCP Skill/skill/k8s-pod-diagnoser/SKILL.md",
+    "00_Inbox/agent-drafts/故障调查报告.md",
+    "01_Projects/CGInstance 实例任务批处理系统/Shard Scheduler 设计与实例锁机制.md",
     "00_Inbox/agent-drafts/CGInstance 实例任务批处理系统技术方案.md",
-    "01_Projects/CGInstance 实例任务批处理系统/项目概览.md",
+    "AGENTS.md",
     "00_Inbox/agent-drafts/RBD 命令合集.md",
+    "01_Projects/CGInstance 实例任务批处理系统/项目概览.md",
     "00_Inbox/agent-drafts/云游戏 Trace.md",
     "00_Inbox/agent-drafts/段锦涛-Go开发工程师.md",
     "00_Inbox/agent-drafts/002-Ceph游戏部署简化.md",
@@ -212,22 +232,6 @@
     "01_Projects/云游戏CallTrace平台/项目概览.md",
     "00_Inbox/agent-drafts/云游戏 Trace .md",
     "05_Learning/这个习惯改变了我的人生 - 笔记.md",
-    "01_Projects/云游戏CallTrace平台",
-    "01_Projects/CGVmAgent 实例Agent服务/项目概览.md",
-    "01_Projects/CGVmAgent 实例Agent服务",
-    "01_Projects/CGInstanceAgent 实例Agent服务/项目概览.md",
-    "01_Projects/CGInstanceAgent 实例Agent服务",
-    "01_Projects/CGInstance 实例任务批处理系统",
-    "01_Projects/FileDispatch 内容分发平台",
-    "05_Learning/一个刚入职的程序员应该学会什么？.md",
-    "05_Learning/萌新程序员的第一年.md",
-    "05_Learning/健身认知.md",
-    "01_Projects/FileDispatch 内容分发平台.md",
-    "01_Projects/CGVmAgent 实例Agent服务.md",
-    "01_Projects/CGInstanceAgent 实例Agent服务.md",
-    "01_Projects/CGInstance 实例任务批处理系统.md",
-    "01_Projects/云游戏CallTrace平台.md",
-    "99_Archive/日记/2026",
     "99_Archive/日记/2025/redis/static/image-20240508094018027.png",
     "99_Archive/日记/2025/redis/static/image-20240508093940548.png",
     "99_Archive/日记/2025/redis/static/image-20240508093400160-1715132042276-1.png",
@@ -237,10 +241,6 @@
     "99_Archive/日记/2025/redis/static/image-20240505220037792.png",
     "99_Archive/日记/2025/redis/static/image-20240505213742910.png",
     "99_Archive/日记/2025/redis/static/image-20240505213620887.png",
-    "99_Archive/日记/2025/redis/static/image-20240505213330199.png",
-    "99_Archive/日记/2025/redis/static",
-    "99_Archive/日记/2025/ratelimit/static",
-    "99_Archive/日记/2025/redis",
-    "99_Archive/日记/2025/ratelimit"
+    "99_Archive/日记/2025/redis/static/image-20240505213330199.png"
   ]
 }

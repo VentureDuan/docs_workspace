@@ -1,0 +1,4 @@
+interface:
+  display_name: "K8s Pod 排障助手"
+  short_description: "使用只读 kubectl 排查 Kubernetes Pod 运行问题。"
+  default_prompt: "帮我查看 uat_union_cg 环境下 cgboss 的 pod 运行情况"

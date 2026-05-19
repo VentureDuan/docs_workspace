@@ -1,0 +1,5 @@
+/* Resize Mermaid diagrams to fit on the page by default */
+.mermaid svg {
+  max-width: 100%;
+  height: auto;
+}

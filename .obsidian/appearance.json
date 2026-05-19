@@ -3,5 +3,6 @@
   "theme": "moonstone",
   "accentColor": "",
   "monospaceFontFamily": "JetBrains Mono",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": []
 }

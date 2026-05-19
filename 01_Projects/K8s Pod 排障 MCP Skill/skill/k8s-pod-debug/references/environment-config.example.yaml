@@ -1,0 +1,26 @@
+clusters:
+  uat:union:cg:
+    alias:
+      - uat_union_cg
+    kubeconfig: D:/kubeconfigs/uat_union_cg.kubeconfig
+    default_namespaces:
+      - cgboss
+      - cg-system
+      - default
+    app_label_keys:
+      - app
+      - app.kubernetes.io/name
+      - k8s-app
+
+  prod:edge:cg:
+    alias:
+      - prod_edge_cg
+    kubeconfig: D:/kubeconfigs/prod_edge_cg.kubeconfig
+    default_namespaces:
+      - cgboss
+      - cg-system
+      - default
+    app_label_keys:
+      - app
+      - app.kubernetes.io/name
+      - k8s-app

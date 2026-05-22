@@ -1,0 +1,20 @@
+{
+  "sessions": [
+    {
+      "id": "338468aa",
+      "created_at": "2026-05-22T03:02:39.358515400Z",
+      "updated_at": "2026-05-22T03:02:55.318710300Z",
+      "model": "claude-opus-4.7",
+      "summary": "hello，你是什么模型，能帮我做什么？",
+      "message_count": 2
+    },
+    {
+      "id": "9b556c15",
+      "created_at": "2026-05-22T10:54:35.369504800Z",
+      "updated_at": "2026-05-22T10:54:35.369505100Z",
+      "model": "gpt-5.5",
+      "summary": "",
+      "message_count": 0
+    }
+  ]
+}

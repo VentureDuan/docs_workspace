@@ -4,5 +4,8 @@
   "accentColor": "",
   "monospaceFontFamily": "JetBrains Mono",
   "nativeMenus": false,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "mermaid-fit",
+    "wide-page"
+  ]
 }

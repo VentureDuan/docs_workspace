@@ -1,0 +1,36 @@
+{
+  "id": "138e26f9",
+  "created_at": "2026-05-22T10:50:13.428284400Z",
+  "updated_at": "2026-05-22T10:50:19.339162500Z",
+  "provider": "openai",
+  "model": "gpt-5.5",
+  "cwd": "C:\\Users\\venture\\AppData\\Roaming\\AionUi\\aionui\\aionrs-temp-1779447013379",
+  "total_usage": {
+    "input_tokens": 2440,
+    "output_tokens": 123,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 0
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "type": "text",
+          "text": "今天星期几"
+        }
+      ],
+      "timestamp": "2026-05-22T10:50:13.521823400Z"
+    },
+    {
+      "role": "assistant",
+      "content": [
+        {
+          "type": "text",
+          "text": "今天是星期五。"
+        }
+      ],
+      "timestamp": "2026-05-22T10:50:19.339159800Z"
+    }
+  ]
+}

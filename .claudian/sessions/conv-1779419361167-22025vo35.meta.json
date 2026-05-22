@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779419361167-22025vo35",
+  "providerId": "claude",
+  "title": "我的技术方案距离落地还有哪些问题需要解决？",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1779419361170,
+  "updatedAt": 1779430247171,
+  "lastResponseAt": 1779430247171,
+  "sessionId": "065a8bae-2004-4b86-a054-2bb5c052c1b4",
+  "providerState": {
+    "providerSessionId": "065a8bae-2004-4b86-a054-2bb5c052c1b4"
+  },
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 211,
+    "cacheReadInputTokens": 99193,
+    "contextWindow": 1000000,
+    "contextTokens": 99405,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}

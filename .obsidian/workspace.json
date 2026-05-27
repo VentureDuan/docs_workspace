@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Inbox/agent-drafts/云游戏 Trace.md",
+                "file": "00_Inbox/备忘.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "云游戏 Trace"
+              "title": "备忘"
             }
           }
         ]
@@ -207,8 +207,9 @@
   },
   "active": "87b4b931e66a9f9d",
   "lastOpenFiles": [
-    "00_Inbox/agent-drafts/CGInstance 实例任务批处理系统技术方案.md",
     "00_Inbox/agent-drafts/云游戏 Trace.md",
+    "00_Inbox/备忘.md",
+    "00_Inbox/agent-drafts/CGInstance 实例任务批处理系统技术方案.md",
     "01_Projects/CGInstance 实例任务批处理系统/技术方案.md",
     "01_Projects/CGInstance 实例任务批处理系统/项目概览.md",
     "01_Projects/CGInstance 实例任务批处理系统/Shard Scheduler 设计与实例锁机制.md",
@@ -242,7 +243,6 @@
     "03_Agent_Context/我的技术栈.md",
     "03_Agent_Context/当前项目.md",
     "05_Learning/沟通技巧.md",
-    "05_Learning/编程能力提升.md",
     "99_Archive/日记/2025/redis/static/image-20240508094018027.png",
     "99_Archive/日记/2025/redis/static/image-20240508093940548.png",
     "99_Archive/日记/2025/redis/static/image-20240508093400160-1715132042276-1.png",

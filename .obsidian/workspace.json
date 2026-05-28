@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Inbox/备忘.md",
+                "file": "01_Projects/CGInstance 实例任务批处理系统/Shard Scheduler 设计与实例锁机制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "备忘"
+              "title": "Shard Scheduler 设计与实例锁机制"
             }
           }
         ]
@@ -166,31 +166,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
+                "file": "01_Projects/CGInstance 实例任务批处理系统/Shard Scheduler 设计与实例锁机制.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
-            }
-          },
-          {
-            "id": "b959ca3e1fa85f12",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "icon": "bot",
-              "title": "Claudian"
+              "title": "Shard Scheduler 设计与实例锁机制 的大纲"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 832.5
+    "width": 955.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,47 +193,48 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": true,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "realclaudian:Open Claudian": false
+      "realclaudian:Open Claudian": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "87b4b931e66a9f9d",
+  "active": "fbd81f18bc331762",
   "lastOpenFiles": [
-    "00_Inbox/agent-drafts/云游戏 Trace.md",
     "00_Inbox/备忘.md",
-    "00_Inbox/agent-drafts/CGInstance 实例任务批处理系统技术方案.md",
-    "01_Projects/CGInstance 实例任务批处理系统/技术方案.md",
     "01_Projects/CGInstance 实例任务批处理系统/项目概览.md",
+    "01_Projects/云游戏CallTrace平台/项目概览.md",
+    "01_Projects/CGInstance 实例任务批处理系统/技术方案.md",
+    "01_Projects/云游戏CallTrace平台/技术方案-CloudGameTrace.md",
+    "00_Inbox/agent-drafts/RBD 命令合集.md",
+    "00_Inbox/agent-drafts/002-Ceph游戏部署简化.md",
+    "00_Inbox/agent-drafts/段锦涛-Go开发工程师.md",
+    "00_Inbox/agent-drafts/云游戏 Trace.md",
+    "00_Inbox/agent-drafts/Codex线上插件市场全部可安装插件清单.md",
+    "00_Inbox/agent-drafts/cgvmagent-adapt-boost-req-plan.md",
+    "00_Inbox/agent-drafts/Codex插件市场插件清单.md",
+    "00_Inbox/agent-drafts/codex-marketplace-plugins-full.json",
+    "00_Inbox/agent-drafts/codex-marketplace-plugins.json",
+    "00_Inbox/agent-drafts/406-65a259e156555687.js",
+    "00_Inbox/agent-drafts/957-c3deb94c0b0904c2.js",
+    "00_Inbox/agent-drafts/707-6b619e4b2e65b684.js",
+    "00_Inbox/agent-drafts/183-34299e29920117ea.js",
+    "00_Inbox/agent-drafts/codex-marketplace-plugins-page.js",
+    "00_Inbox/agent-drafts/codex-marketplace-plugins.html",
+    "00_Inbox/agent-drafts/CGInstance 实例任务批处理系统技术方案.md",
     "01_Projects/CGInstance 实例任务批处理系统/Shard Scheduler 设计与实例锁机制.md",
     "01_Projects/CGInstance 实例任务批处理系统/技术方案.md.tmp.9520.1e849c71e6a6",
     "00_Inbox/agent-drafts/CGInstance 实例任务批处理系统技术方案.md.tmp.9520.8335b36514e7",
-    "00_Inbox/agent-drafts/CGInstance 实例任务批处理系统技术方案.md.tmp.9520.464308121b69",
-    "00_Inbox/agent-drafts/CGInstance 实例任务批处理系统技术方案.md.tmp.9520.e473e3146193",
     "01_Projects/CGInstanceAgent 实例Agent服务/项目概览.md",
-    "01_Projects/云游戏CallTrace平台/技术方案-CloudGameTrace.md",
-    "00_Inbox/agent-drafts/RBD 命令合集.md",
     "01_Projects/K8s Pod 排障 MCP Skill/项目概览.md",
     "01_Projects/K8s Pod 排障 MCP Skill/技术方案.md",
     "01_Projects/K8s Pod 排障 MCP Skill/README.md",
     "01_Projects/项目索引.md",
     "00_Inbox/agent-drafts/故障调查报告.md",
-    "00_Inbox/agent-drafts/段锦涛-Go开发工程师.md",
-    "00_Inbox/agent-drafts/002-Ceph游戏部署简化.md",
     "01_Projects/K8s Pod 排障 MCP Skill/skill/k8s-pod-debug/references/readonly-rbac-requirements.md",
-    "01_Projects/K8s Pod 排障 MCP Skill/skill/k8s-pod-debug/references/environment-config.example.yaml",
-    "01_Projects/K8s Pod 排障 MCP Skill/skill/k8s-pod-debug/agents/openai.yaml",
     "01_Projects/K8s Pod 排障 MCP Skill/skill/k8s-pod-debug/SKILL.md",
-    "01_Projects/K8s Pod 排障 MCP Skill/skill/k8s-pod-debug/references",
-    "01_Projects/K8s Pod 排障 MCP Skill/skill/k8s-pod-debug/agents",
-    "01_Projects/K8s Pod 排障 MCP Skill/skill/k8s-pod-debug",
-    "01_Projects/K8s Pod 排障 MCP Skill/skill",
     "01_Projects/K8s Pod 排障 MCP Skill/k8s-pod-debug/references/readonly-rbac-requirements.md",
     "01_Projects/K8s Pod 排障 MCP Skill/k8s-pod-debug/SKILL.md",
     "01_Projects/K8s Pod 排障 MCP Skill/skill/k8s-pod-diagnoser/references/readonly-rbac-requirements.md",
     "01_Projects/K8s Pod 排障 MCP Skill/skill/k8s-pod-diagnoser/SKILL.md",
-    "AGENTS.md",
-    "03_Agent_Context/我的技术栈.md",
-    "03_Agent_Context/当前项目.md",
-    "05_Learning/沟通技巧.md",
     "99_Archive/日记/2025/redis/static/image-20240508094018027.png",
     "99_Archive/日记/2025/redis/static/image-20240508093940548.png",
     "99_Archive/日记/2025/redis/static/image-20240508093400160-1715132042276-1.png",

@@ -17,12 +17,12 @@
       "path": "01_Projects/CGInstance 实例任务批处理系统/项目概览.md"
     },
     {
-      "basename": "Shard Scheduler 设计与实例锁机制",
-      "path": "01_Projects/CGInstance 实例任务批处理系统/Shard Scheduler 设计与实例锁机制.md"
+      "basename": "项目概览",
+      "path": "01_Projects/云游戏CallTrace平台/项目概览.md"
     },
     {
-      "basename": "项目概览",
-      "path": "01_Projects/CGInstanceAgent 实例Agent服务/项目概览.md"
+      "basename": "技术方案",
+      "path": "01_Projects/CGInstance 实例任务批处理系统/技术方案.md"
     },
     {
       "basename": "技术方案-CloudGameTrace",

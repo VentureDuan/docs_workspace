@@ -197,9 +197,8 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "fbd81f18bc331762",
+  "active": "87b4b931e66a9f9d",
   "lastOpenFiles": [
-    "00_Inbox/备忘.md",
     "01_Projects/CGInstance 实例任务批处理系统/项目概览.md",
     "01_Projects/云游戏CallTrace平台/项目概览.md",
     "01_Projects/CGInstance 实例任务批处理系统/技术方案.md",
@@ -235,6 +234,7 @@
     "01_Projects/K8s Pod 排障 MCP Skill/k8s-pod-debug/SKILL.md",
     "01_Projects/K8s Pod 排障 MCP Skill/skill/k8s-pod-diagnoser/references/readonly-rbac-requirements.md",
     "01_Projects/K8s Pod 排障 MCP Skill/skill/k8s-pod-diagnoser/SKILL.md",
+    "AGENTS.md",
     "99_Archive/日记/2025/redis/static/image-20240508094018027.png",
     "99_Archive/日记/2025/redis/static/image-20240508093940548.png",
     "99_Archive/日记/2025/redis/static/image-20240508093400160-1715132042276-1.png",
